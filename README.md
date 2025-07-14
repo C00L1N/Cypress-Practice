@@ -1,13 +1,24 @@
 # Cypress-Practice
-This repo is being used to practice cypress 
 
-## 🧠 What I learned
-- Use randomizers to automate filling out forms
-- Create commands to avoid repetition
+This repository is used to practice writing Cypress tests and improve automation skills.
 
-All of the code is purely made in javascript.
-This is the repo where I am using cypress to practice with. 
-[Cypress-Testing Ground](https://github.com/C00L1N/Cypress-Testing-Ground.git)
+---
 
-You can also visit the site deployed using github
-[Cypress-Testing Ground Website](https://c00l1n.github.io/Cypress-Testing-Ground/)
+## 🧠 What I’ve Learned
+
+- Using randomizers to automate form input
+- Creating custom Cypress commands to reduce code repetition
+- Writing reusable, maintainable JavaScript for test automation
+
+> All the code in this project is written purely in JavaScript.
+
+---
+
+## 🔗 Related Repositories
+
+- 💻 **Practice Tests:** [Cypress-Testing Ground](https://github.com/C00L1N/Cypress-Testing-Ground.git)
+
+## 🌐 Live Site
+
+You can also visit the project deployed via GitHub Pages:  
+👉 [Cypress-Testing Ground Website](https://c00l1n.github.io/Cypress-Testing-Ground/)
