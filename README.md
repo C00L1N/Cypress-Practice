@@ -2,8 +2,6 @@
 
 This repository is used to practice writing Cypress tests and improve automation skills.
 
----
-
 ## 🧠 What I’ve Learned
 
 - Using randomizers to automate form input
@@ -12,10 +10,9 @@ This repository is used to practice writing Cypress tests and improve automation
 
 > All the code in this project is written purely in JavaScript.
 
----
 ## 🚀 How to Run
 ### 1. Clone the repository
-`git clone https://github.com/C00L1N/Cypress-Practice.git`
+`git clone https://github.com/C00L1N/Cypress-Practice.git`  
 `cd Cypress-Practice`
 
 ### 2. Install Dependencies
@@ -25,10 +22,8 @@ This repository is used to practice writing Cypress tests and improve automation
 `npx cypress open`
 
 ### 💡 Tip
-You can also run tests in headless mode:
+You can also run tests in headless mode:  
 `npx cypress run`
-
----
 
 ## 📁 Project Structure
 ```
