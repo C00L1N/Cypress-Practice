@@ -25,7 +25,9 @@ This repository is used to practice writing Cypress tests and improve automation
 `npx cypress open`
 
 ### 💡 Tip
+You can also run tests in headless mode:
 `npx cypress run`
+
 ---
 
 ## 📁 Project Structure
