@@ -13,6 +13,30 @@ This repository is used to practice writing Cypress tests and improve automation
 > All the code in this project is written purely in JavaScript.
 
 ---
+## 🚀 How to Run
+### 1. Clone the repository
+`git clone https://github.com/C00L1N/Cypress-Practice.git`
+`cd Cypress-Practice`
+
+### 2. Install Dependencies
+`npm install`
+
+### 3. Open Cypress Test Runner
+`npx cypress open`
+
+### 💡 Tip
+`npx cypress run`
+---
+
+## 📁 Project Structure
+```
+cypress/
+  ├── e2e/                # Test files
+  ├── support/
+  │   └── commands.js     # Custom Cypress commands
+  ├── fixtures/           # Static data (if any)
+  └── config.js           # Cypress config file
+```
 
 ## 🔗 Related Repositories
 
